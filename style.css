@@ -1,0 +1,30 @@
+body{
+    margin: 15px;
+    padding: 2px ;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    height: 100vh;
+    color: #e98a1d;
+    font-family: 'Games', sans-serif;
+                                                
+}
+
+button{
+    font-family: 'Permanent Marker', cursive;
+ background-color: #e98a1d ;
+ margin-top: 70px;
+ cursor: pointer;
+ border-radius: 25px;
+ font-family: 'Games', sans-serif;
+ 
+}
+button:hover{
+    color: brown;
+}
+div{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+    margin-top: 50px;
+    font-family: 'Games', sans-serif;
+                                                
+}
